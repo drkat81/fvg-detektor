@@ -10,3 +10,4 @@ pip install -r requirements.txt
 
 ## Beroenden
 - yfinance (hämtar prisdata från Yahoo Finance)
+- mplfinance (ritar candlestick-graf med FVG markerat)
